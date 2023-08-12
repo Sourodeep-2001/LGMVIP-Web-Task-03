@@ -4,6 +4,5 @@
 
 # Output
 
-![Screenshot (220)](https://github.com/Sourodeep-2001/LGMVIP-Web-Task-03/assets/57056047/c32cbac5-f41d-423b-9748-1f5c484e4c0e)
-![Screenshot (221)](https://github.com/Sourodeep-2001/LGMVIP-Web-Task-03/assets/57056047/b8f283e2-ea8b-48b2-9413-d1a7e4bd3994)
-
+![Screenshot (222)](https://github.com/Sourodeep-2001/LGMVIP-Web-Task-03/assets/57056047/90877ece-ba44-4faa-8606-c4d2ca582cc9)
+![Screenshot (223)](https://github.com/Sourodeep-2001/LGMVIP-Web-Task-03/assets/57056047/e2e4abf8-347a-41b5-865d-b8a78f77db22)
